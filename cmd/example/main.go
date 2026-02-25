@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/pavelmkr/go-ai-framework/internal/client"
+	"github.com/PavelMkr/go-ai-framework/internal/client"
 )
 
 func main() {
