@@ -1,5 +1,5 @@
 # Go AI Framework
-![CI](https://github.com/PavelMkr/go-ai-framework/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/PavelMkr/go-ai-framework/actions/workflows/go.yml/badge.svg)
 
 Test framework on Go with CI/CD for working with LLM.
 
